@@ -1,0 +1,5 @@
+node_modules
+*.disc.json
+*.tern-port
+npm-debug*
+*.swp

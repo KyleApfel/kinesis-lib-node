@@ -1,0 +1,18 @@
+{
+  "name": "kinesis-lib-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle Apfel",
+  "license": "ISC",
+  "dependencies": {
+    "atob": "^2.0.3",
+    "aws-sdk": "^2.6.3",
+    "control.monads": "^0.6.0",
+    "data.task": "^3.1.1",
+    "ramda": "^0.22.1"
+  }
+}
